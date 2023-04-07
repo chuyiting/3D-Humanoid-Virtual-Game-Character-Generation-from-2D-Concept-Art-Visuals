@@ -36,14 +36,14 @@ credit/source: https://www.artstation.com/artwork/RnkVEm
   <img src="https://user-images.githubusercontent.com/59797323/230575955-c4afb94d-7df2-4c0d-915d-b66a2d490880.png" width="200" />
 </p>
 
-credit/source: 230576229-16957286-adcc-4cc5-bf89-834907986a88.png
+credit/source: https://twitter.com/LeagueOfLegends/status/1397609084744978434/photo/1
 <p float="left">
   <img src="https://user-images.githubusercontent.com/59797323/230576216-15e3e989-028b-4508-8992-73daf0d10643.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230576225-34af7146-328e-488e-8759-a14607c0da8d.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230576229-16957286-adcc-4cc5-bf89-834907986a88.png" width="200" />
 </p>
 
-credit/source: 230576229-16957286-adcc-4cc5-bf89-834907986a88.png
+credit/source: https://twitter.com/LeagueOfLegends/status/1397609084744978434/photo/1
 <p float="left">
   <img src="https://user-images.githubusercontent.com/59797323/230576515-8e27928e-800e-4934-a5e9-f9e677fe8d6d.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230576520-a5eb4ac0-4010-4f8b-96e6-a1ef5289bca3.png" width="200" />
