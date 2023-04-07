@@ -20,6 +20,7 @@ credit/source: https://www.deviantart.com/glitcher/art/Zero-Suit-Samus-model-she
   <img src="https://user-images.githubusercontent.com/59797323/230575081-addbef16-8bca-44ff-84fc-a7223185cf9a.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230575087-8dedc37a-e1cb-4c68-8dd1-c962aa065b6d.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230575084-d3e8367d-36f0-4abc-9934-7e5603d21ba8.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230579025-670bd08f-ce43-435d-be57-fc5cdfb9f2b0.gif" width="200" />
 </p>
 
 credit/source: https://www.pinterest.com/pin/786089309994518388/
