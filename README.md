@@ -3,8 +3,17 @@ For the research project on Procedural Content Generation for Games using Machin
 Note: this is an empty repository created for evaluator to see our qualitative results. Actual repository is private currently.
 
 NeRF reconstruction from 3 source views (concept art views)
-credit: https://www.mixamo.com/
 
+Results from sketches from only resources:
+credit: https://www.deviantart.com/glitcher/art/Mega-Man-Volnutt-model-sheet-438603492
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/59797323/230568541-3cc0bd9c-8d35-4225-9bdb-c8c95fcca921.gif" width="200" />
+</p>
+
+
+Results from validation dataset:
+credit: https://www.mixamo.com/
 <p float="left">
   <img src="https://user-images.githubusercontent.com/59797323/228722325-e5314328-ef53-432e-8989-423d81800d00.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/228723492-2725de90-9fb8-40c5-84b3-b1c90894dc54.gif" width="200" />
