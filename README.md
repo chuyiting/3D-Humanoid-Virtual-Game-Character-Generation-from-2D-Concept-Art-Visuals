@@ -9,9 +9,9 @@ Left three images are input sketches. The gif is the NeRF rendered result
 
 credit: https://www.deviantart.com/glitcher/art/Mega-Man-Volnutt-model-sheet-438603492
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/59797323/230573254-c2d9e0e6-c375-4dfe-8348-86b2c355e4ec.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/230573260-834bcaa4-3594-48cb-818b-25b5d56539b9.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/230573263-1ee0b375-aceb-4e46-9d93-4c7399cd9674.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230574607-cb095e1c-fce5-496c-a385-19de644cd1ea.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230574603-a750944d-e980-45f5-ab3f-0bd7a2109867.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230574593-5e3d40f3-7306-4b34-8552-e8471876c01f.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230568541-3cc0bd9c-8d35-4225-9bdb-c8c95fcca921.gif" width="200" />
 </p>
 
