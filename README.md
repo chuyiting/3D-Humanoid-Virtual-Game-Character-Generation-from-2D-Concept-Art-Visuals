@@ -79,5 +79,11 @@ https://www.deviantart.com/glitcher/art/Beck-Model-Sheet-399333656
   <img src="https://user-images.githubusercontent.com/59797323/230697848-8276b989-0d83-4168-8b88-5016efaa3660.gif" width="200" />
 </p>
 
-
+credit/source: https://www.pinterest.com/pin/189784571789670978/
+ <p float="left">
+   <img src="https://user-images.githubusercontent.com/59797323/230576820-41aff18f-2813-4060-a999-28662c465f97.png" width="200" />
+   <img src="https://user-images.githubusercontent.com/59797323/230576822-e6c95832-26f2-4a89-b8d4-7c2920dd1a24.png" width="200" />
+   <img src="https://user-images.githubusercontent.com/59797323/230576825-59c64b33-6fe7-439b-822f-03cfb44c080c.png" width="200" />
+   <img src="https://user-images.githubusercontent.com/59797323/230698099-51d82ed7-a5cd-47b6-983d-0b87c793e63d.gif" width="200" />
+ </p>
 
