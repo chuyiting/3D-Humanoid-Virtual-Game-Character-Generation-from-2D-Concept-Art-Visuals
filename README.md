@@ -4,6 +4,7 @@ Note: this is an empty repository created for evaluator to see our qualitative r
 
 NeRF reconstruction from 3 source views (concept art views)
 
+
 Results from sketches from only resources:
 Left three images are input sketches. The gif is the NeRF rendered result
 
@@ -37,7 +38,6 @@ credit/source: https://www.artstation.com/artwork/RnkVEm
   <img src="https://user-images.githubusercontent.com/59797323/230575953-bb75959b-25ad-4abc-86f3-685b286f1af2.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230575955-c4afb94d-7df2-4c0d-915d-b66a2d490880.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230697785-a943b11f-82f1-41c7-bde6-1c9b98649a2e.gif" width="200" />
-  
 </p>
 
 credit/source: https://jakeneal.wordpress.com/2011/10/13/character-t-pose/turnaround2/
@@ -57,34 +57,5 @@ https://www.deviantart.com/glitcher/art/Beck-Model-Sheet-399333656
   <img src="https://user-images.githubusercontent.com/59797323/230697848-8276b989-0d83-4168-8b88-5016efaa3660.gif" width="200" />
 </p>
 
-Results from validation dataset:
-credit/source: https://www.mixamo.com/
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/59797323/228722325-e5314328-ef53-432e-8989-423d81800d00.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/228723492-2725de90-9fb8-40c5-84b3-b1c90894dc54.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/228723171-4d877287-bb71-4f0b-9a5a-1bd5243c074e.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/228723865-867c0327-8922-430d-8274-384bead22d21.gif" width="200" />
-</p>
 
-credit/source: https://www.pinterest.com/pin/189784571789670978/
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/59797323/230576820-41aff18f-2813-4060-a999-28662c465f97.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/230576822-e6c95832-26f2-4a89-b8d4-7c2920dd1a24.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/230576825-59c64b33-6fe7-439b-822f-03cfb44c080c.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/230698099-51d82ed7-a5cd-47b6-983d-0b87c793e63d.gif" width="200" />
-</p>
-
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/59797323/228724094-b32291a4-1076-4d1c-bc77-e867059ae23b.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/228724294-b6b57bb2-fa13-4d06-b6ea-28a2c5ba1fa8.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/228726448-821b840c-51d1-4833-9111-aa9d15a44c4a.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/228725592-106cb088-83d3-4c64-a53d-aa67740850ba.gif" width="200" />
-</p>
-
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/59797323/228750779-1284977c-33e1-433b-be9f-8a1efff10b81.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/228750799-9e0cc713-c535-407e-bc3e-3b1158619205.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/228762866-95b560ae-b90c-463d-86e2-3624429b107f.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/59797323/229602754-aac789ae-e2f9-4378-84b5-1ad3a9a6dd98.gif" width="200" />
-</p>
 
