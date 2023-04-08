@@ -66,6 +66,14 @@ credit/source: https://www.mixamo.com/
   <img src="https://user-images.githubusercontent.com/59797323/228723865-867c0327-8922-430d-8274-384bead22d21.gif" width="200" />
 </p>
 
+credit/source: https://www.pinterest.com/pin/189784571789670978/
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/59797323/230576820-41aff18f-2813-4060-a999-28662c465f97.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230576822-e6c95832-26f2-4a89-b8d4-7c2920dd1a24.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230576825-59c64b33-6fe7-439b-822f-03cfb44c080c.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230698099-51d82ed7-a5cd-47b6-983d-0b87c793e63d.gif" width="200" />
+</p>
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/59797323/228724094-b32291a4-1076-4d1c-bc77-e867059ae23b.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/228724294-b6b57bb2-fa13-4d06-b6ea-28a2c5ba1fa8.gif" width="200" />
