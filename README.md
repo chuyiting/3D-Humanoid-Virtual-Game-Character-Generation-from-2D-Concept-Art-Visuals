@@ -54,6 +54,14 @@ credit/source: https://www.pinterest.com/pin/786089309994518388/
   <img src="https://user-images.githubusercontent.com/59797323/230697757-c2c61bde-8f2b-4a47-9c5b-e7477a928e64.gif" width="200" />
 </p>
 
+credit/source: https://www.pinterest.com/pin/786089309994518388/
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/59797323/230575352-37d0e717-15c3-4154-ac1a-fae2225f735f.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230575348-8a04d562-9ae1-4b03-a421-0f15a83e42d1.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230575342-25b9763b-f74c-4ab4-aa3e-fb9db8ab2523.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/59797323/230715219-b692231f-a0fd-4901-9032-7e630a6dfb36.gif" width="200" />
+</p>
+
 credit/source: https://www.artstation.com/artwork/RnkVEm
 <p float="left">
   <img src="https://user-images.githubusercontent.com/59797323/230575945-c9fbe366-e61b-430d-ae91-42adfefb0d78.png" width="200" />
@@ -85,5 +93,14 @@ credit/source: https://www.pinterest.com/pin/189784571789670978/
    <img src="https://user-images.githubusercontent.com/59797323/230576822-e6c95832-26f2-4a89-b8d4-7c2920dd1a24.png" width="200" />
    <img src="https://user-images.githubusercontent.com/59797323/230576825-59c64b33-6fe7-439b-822f-03cfb44c080c.png" width="200" />
    <img src="https://user-images.githubusercontent.com/59797323/230698099-51d82ed7-a5cd-47b6-983d-0b87c793e63d.gif" width="200" />
+ </p>
+ 
+ credit/source: https://civitai.com/images/212764?modelId=3036&postId=110853&id=3036&slug=charturner-character-turnaround-helper
+  <p float="left">
+   <img src="https://user-images.githubusercontent.com/59797323/230715321-96601895-8c25-42fc-84be-0718ce6e77a3.png" width="200" />
+   <img src="https://user-images.githubusercontent.com/59797323/230715322-477ee1fc-2a42-4552-bb48-f5581415f967.png" width="200" />
+   <img src="https://user-images.githubusercontent.com/59797323/230715323-bb9ca314-5eeb-4b99-afba-6934b48a230d.png" width="200" />
+   <img src="https://user-images.githubusercontent.com/59797323/230698099-51d82ed7-a5cd-47b6-983d-0b87c793e63d.gif" width="200" />
+  
  </p>
 
