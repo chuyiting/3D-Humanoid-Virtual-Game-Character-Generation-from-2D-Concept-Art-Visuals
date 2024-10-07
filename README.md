@@ -1,5 +1,5 @@
 # 3D-Humanoid-Virtual-Game-Character-Generation-from-2D-Concept-Art
-For the research project on Procedural Content Generation for Games using Machine Learning Techniques in NUS.
+For the research project on Procedural Content Generation for Games using Machine Learning Techniques in NUS/Riot Games Singpapore.
 Note: this is an empty repository created for evaluator to see our qualitative results. Actual repository is private currently.
 
 NeRF reconstruction from 3 source views (concept art views)
